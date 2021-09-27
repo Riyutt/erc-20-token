@@ -1,6 +1,6 @@
 # erc-20-token
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.6;
+pragma solidity ^0.8.7;
 // use latest solidity version at time of writing, need not worry about overflow and underflow
 
 /// @title ERC20 Contract 
